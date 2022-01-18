@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import Formulario from './components/Formulario'
 import Header from './components/Header'
 import ListadoNoticias from './components/ListadoNoticias'
